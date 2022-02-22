@@ -21,9 +21,9 @@ Dependencies
 
 Before you install the library you need to activate i2c on your Raspberry Pi and install the following dependencies.
 
-    $ sudo apt-get install i2c-tools python3-smbus libi2c-dev python3-pip
+    sudo apt-get install i2c-tools python3-smbus libi2c-dev python3-pip
 
-    $ sudo pip3 install RPi.GPIO
+    sudo pip3 install RPi.GPIO
 
 Installation
 =====
